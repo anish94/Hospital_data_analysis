@@ -11,4 +11,3 @@ dependencies:
   - bqplot
   - ipympl
   - geopandas
-  - plotly
