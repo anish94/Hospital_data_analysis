@@ -1,5 +1,6 @@
 <b> Hospital Data Analysis </b>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anish94/Hospital_data_analysis/master?filepath=USA-hospital-data-analysis.ipynb)
 
 The dataset contains information of hospitals across the United States. Key attributes observed are Hospital Type, Hospital Ownership and Hospital Rating. I have developed a dashboard using concepts taught in the Data Vizualization class to explore this dataset for the aformentioned attributes and derive useful insights from the same. 
 
