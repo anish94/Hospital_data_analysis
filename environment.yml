@@ -9,3 +9,5 @@ dependencies:
   - traitlets
   - seaborn
   - bqplot
+  - ipympl
+  - geopandas
